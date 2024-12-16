@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Rock Yu⚡️
 
 Greetings from California! How are you doing today! 🤩
+![](https://komarev.com/ghpvc/?username=rock3yu)
 
 <picture>
   <source
