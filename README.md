@@ -13,10 +13,54 @@ Greetings from California! How are you doing today! 🤩
 
 ### My Skills
 
+**Frontend**
+
+<p>
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="TypeScript"
+    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Prettier"
+    src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+</p>
+
+**Backend (prospective)**
+
+<p>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+**DevOps**
+
+<p>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions"
+    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Conda" src="https://img.shields.io/badge/-Conda-342B029?style=flat-square&logo=anaconda&logoColor=white" />
+</p>
+
+**Environment**
+
+<p>
+  <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+<!--   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" /> -->
+</p>
+
+
 ### My GitHub Stats
 
-|![](https://github-readme-stats.vercel.app/api?username=rock3yu)|![Rock Yu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rockyu&layout=compact&hide_border=true&langs_count=10)|
-|-|-|
+| ![](https://github-readme-stats.vercel.app/api?username=rock3yu) | ![Rock Yu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rockyu&layout=compact&hide_border=true&langs_count=10) |
+|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+
 
 <!--
 <details open>
