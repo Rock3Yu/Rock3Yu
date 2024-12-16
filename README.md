@@ -2,7 +2,7 @@
 
 Greetings from California! How are you doing today! 🤩
 
-### My personal
+### My Personal
 
 - 🔭 I am looking for SDE, DS, and other tech intern @US
 - 💙 I am currently pursuing a MSCS degree at UCRiverside
@@ -11,9 +11,9 @@ Greetings from California! How are you doing today! 🤩
 - 📫 Reach me: rockyu787 [AT] gmail.com
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/Rock3Yu?label=follow%20me&style=social)](https://github.com/Rock3Yu/)
 
-### My skills
+### My Skills
 
-### My GitHub stats
+### My GitHub Stats
 
 |![](https://github-readme-stats.vercel.app/api?username=rock3yu)|![Rock Yu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rockyu&layout=compact&hide_border=true&langs_count=10)|
 |-|-|
