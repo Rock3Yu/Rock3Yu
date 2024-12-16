@@ -20,8 +20,8 @@ Greetings from California! How are you doing today! 🤩
 -  I am looking for SDE, DS, and other tech intern @US  
 -  I am currently pursuing a MSCS degree at UCRiverside💙
 -  I earned a BS degree in Computer Science from SUSTech🧡
--  My passion: Omni-tech, Football, Racing, Horn, Fitness, Travel
--  Reach me: rockyu787 [AT] gmail.com  
+-  My Passion: Omni-tech, Football, Racing, Horn, Fitness, Travel
+-  Reach Me: rockyu787 [AT] gmail.com  
 -  Follow Me: [![](https://img.shields.io/github/followers/Rock3Yu?label=follow%20me&style=social)](https://github.com/Rock3Yu/)  
 
 ### My Skills
@@ -39,7 +39,7 @@ Greetings from California! How are you doing today! 🤩
     src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-**Backend (prospective)**
+**Backend**
 
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
