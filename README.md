@@ -2,14 +2,26 @@
 
 Greetings from California! How are you doing today! 🤩
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rock3yu&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rock3yu&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rock3yu&show_icons=true" align=right />
+</picture>
+
 ### My Personal
 
-- 🔭 I am looking for SDE, DS, and other tech intern @US
-- 💙 I am currently pursuing a MSCS degree at UCRiverside
-- 🧡 I earned a BS degree in Computer Science from SUSTech
-- 🎣 My passion: Omni-tech💻, Football⚽️, Racing🏎️, Horn🎺, Fitness💪, Travel✈️
-- 📫 Reach me: rockyu787 [AT] gmail.com
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/Rock3Yu?label=follow%20me&style=social)](https://github.com/Rock3Yu/)
+- 🔭 I am looking for SDE, DS, and other tech intern @US  
+- 💙 I am currently pursuing a MSCS degree at UCRiverside  
+- 🧡 I earned a BS degree in Computer Science from SUSTech  
+- 🎣 My passion: Omni-tech💻, Football⚽️, Racing🏎️, Horn🎺, Fitness💪, Travel✈️  
+- 📫 Reach me: rockyu787 [AT] gmail.com  
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/Rock3Yu?label=follow%20me&style=social)](https://github.com/Rock3Yu/)  
 
 ### My Skills
 
@@ -56,11 +68,12 @@ Greetings from California! How are you doing today! 🤩
 </p>
 
 
+<!--
 ### My GitHub Stats
 
 | ![](https://github-readme-stats.vercel.app/api?username=rock3yu) | ![Rock Yu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rockyu&layout=compact&hide_border=true&langs_count=10) |
 |------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-
+-->
 
 <!--
 <details open>
