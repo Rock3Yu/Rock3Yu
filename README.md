@@ -64,6 +64,7 @@ Greetings from California! How are you doing today! 🤩
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+  <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains%20IDE-000000?style=flat-square&logo=jetbrains&logoColor=white" />
 <!--   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" /> -->
 </p>
 
