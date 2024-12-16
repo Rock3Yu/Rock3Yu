@@ -11,7 +11,7 @@ Greetings from California! How are you doing today! 🤩
     srcset="https://github-readme-stats.vercel.app/api?username=rock3yu&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=rock3yu&show_icons=true" align=right width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rock3yu&show_icons=true" align=right width="47%"/>
 </picture>
 
 ### My Personal
