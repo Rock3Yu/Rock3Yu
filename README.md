@@ -16,12 +16,12 @@ Greetings from California! How are you doing today! 🤩
 
 ### My Personal
 
-- 🔭 I am looking for SDE, DS, and other tech intern @US  
-- 💙 I am currently pursuing a MSCS degree at UCRiverside  
-- 🧡 I earned a BS degree in Computer Science from SUSTech  
-- 🎣 My passion: Omni-tech💻, Football⚽️, Racing🏎️, Horn🎺, Fitness💪, Travel✈️  
-- 📫 Reach me: rockyu787 [AT] gmail.com  
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/Rock3Yu?label=follow%20me&style=social)](https://github.com/Rock3Yu/)  
+-  I am looking for SDE, DS, and other tech intern @US  
+-  I am currently pursuing a MSCS degree at UCRiverside💙
+-  I earned a BS degree in Computer Science from SUSTech🧡
+-  My passion: Omni-tech, Football, Racing, Horn, Fitness, Travel
+-  Reach me: rockyu787 [AT] gmail.com  
+-  Follow Me: [![](https://img.shields.io/github/followers/Rock3Yu?label=follow%20me&style=social)](https://github.com/Rock3Yu/)  
 
 ### My Skills
 
