@@ -17,7 +17,7 @@ Greetings from California! How are you doing today! 🤩
 
 ### My Personal
 
--  I am looking for SDE, DS, and other tech intern @US  
+-  I am looking for SDE, DA, and other tech intern @US  
 -  I am currently pursuing a MSCS degree at UCRiverside💙
 -  I earned a BS degree in Computer Science from SUSTech🧡
 -  My Passion: Omni-tech, Football, Racing, Horn, Fitness, Travel
