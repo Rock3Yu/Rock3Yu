@@ -17,10 +17,6 @@
 </p>
 
 <p align="center">
-  Looking for full-time opportunities in the U.S. and China
-</p>
-
-<p align="center">
   <picture>
     <source
       srcset="https://github-readme-stats-sigma-olive-85.vercel.app/api?username=rock3yu&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
@@ -33,7 +29,7 @@
     <img
       src="https://github-readme-stats-sigma-olive-85.vercel.app/api?username=rock3yu&show_icons=true&hide_border=true&rank_icon=github"
       alt="GitHub stats"
-      width="56%"
+      width="40%"
     />
   </picture>
 </p>
