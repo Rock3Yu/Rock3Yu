@@ -1,112 +1,25 @@
-## Hi there 👋, I'm Rock Yu⚡️
+<h1 align="center">Kunyi (Rock) Yu</h1>
 
-Greetings from California! How are you doing today! 🤩
-![](https://komarev.com/ghpvc/?username=rock3yu)
-
-  <picture>                                                                                                                                                                
-    <source               
-      srcset="https://github-readme-stats-sigma-olive-85.vercel.app/api?username=rock3yu&show_icons=true&theme=dark"                                                       
-      media="(prefers-color-scheme: dark)"                                                                                                                                 
-    />                                                                                                                                                                     
-    <source                                                                                                                                                                
-      srcset="https://github-readme-stats-sigma-olive-85.vercel.app/api?username=rock3yu&show_icons=true"                                                                  
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />                                                                                                                                                                     
-    <img src="https://github-readme-stats-sigma-olive-85.vercel.app/api?username=rock3yu&show_icons=true" align=right width="47%"/>
-  </picture>
-
-### My Personal
-
--  I am looking for SDE, DA, and other tech intern @US  
--  I am currently pursuing a MSCS degree at UCRiverside💙
--  I earned a BS degree in Computer Science from SUSTech🧡
--  My Passion: Omni-tech, Football, Racing, Horn, Fitness, Travel
--  Reach Me: rockyu787 [AT] gmail.com  
--  Follow Me: [![](https://img.shields.io/github/followers/Rock3Yu?label=follow%20me&style=social)](https://github.com/Rock3Yu/)  
-
-### My Skills
-
-**Frontend**
-
-<p>
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="TypeScript"
-    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Prettier"
-    src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+<p align="center">
+  M.S. in Computer Science at UC Riverside<br>
+  Software Engineering · AI/ML · Agentic AI
 </p>
 
-**Backend**
-
-<p>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<p align="center">
+  <a href="https://rock3yu.github.io">Website</a> ·
+  <a href="mailto:kyu135@ucr.edu">Email</a> ·
+  <a href="https://github.com/rock3yu">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/kunyi-yu">LinkedIn</a> ·
+  <a href="https://orcid.org/0009-0008-9636-2693">ORCID</a>
 </p>
 
-**DevOps**
+## About
 
-<p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions"
-    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img alt="Conda" src="https://img.shields.io/badge/-Conda-342B029?style=flat-square&logo=anaconda&logoColor=white" />
-</p>
+- Second-year M.S. student in Computer Science at the University of California, Riverside
+- B.S. in Computer Science and Technology from the Southern University of Science and Technology
+- Interested in software engineering, AI/ML, and agentic AI systems
+- Actively seeking full-time opportunities in the U.S. and China
 
-**Environment**
+## Stack
 
-<p>
-  <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains%20IDE-000000?style=flat-square&logo=jetbrains&logoColor=white" />
-<!--   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" /> -->
-</p>
-
-**Programming Language**
-
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-</p>
-
-
-<!--
-### My GitHub Stats
-
-| ![](https://github-readme-stats.vercel.app/api?username=rock3yu) | ![Rock Yu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rockyu&layout=compact&hide_border=true&langs_count=10) |
-|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
--->
-
-<!--
-<details open>
-<summary>Click to open ...</summary>
-More content
-</details>
--->
-
-<!--
-**Rock3Yu/Rock3Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` `Java` `C/C++` `TypeScript` `React` `Vue` `Spring Boot` `PyTorch`
