@@ -29,7 +29,7 @@
     <img
       src="https://github-readme-stats-sigma-olive-85.vercel.app/api?username=rock3yu&show_icons=true&hide_border=true&rank_icon=github"
       alt="GitHub stats"
-      width="40%"
+      width="50%"
     />
   </picture>
 </p>
