@@ -19,15 +19,15 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-sigma-olive-85.vercel.app/api?username=rock3yu&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+      srcset="https://github-readme-stats-sigma-olive-85.vercel.app/api?username=rock3yu&show_icons=true&theme=dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-sigma-olive-85.vercel.app/api?username=rock3yu&show_icons=true&hide_border=true&rank_icon=github"
+      srcset="https://github-readme-stats-sigma-olive-85.vercel.app/api?username=rock3yu&show_icons=true&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-      src="https://github-readme-stats-sigma-olive-85.vercel.app/api?username=rock3yu&show_icons=true&hide_border=true&rank_icon=github"
+      src="https://github-readme-stats-sigma-olive-85.vercel.app/api?username=rock3yu&show_icons=true&hide_border=true"
       alt="GitHub stats"
       width="50%"
     />
